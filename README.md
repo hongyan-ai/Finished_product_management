@@ -1,3 +1,3 @@
 这是一个多个脚本管理的实用性仓库
-python + golang
+python  golang  c++  
 包括但不限于 Ai 通讯协议 爬虫  和 实用性功能
